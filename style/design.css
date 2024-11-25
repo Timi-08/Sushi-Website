@@ -551,6 +551,20 @@ main {
   .best-dish-sec {
     grid-template-columns: repeat(1, 1fr);
   }
+  .best-dish {
+    width: auto;
+    height: 250px;
+    justify-content: center;
+  }
+  .best-dish-icon {
+    left: 68px;
+    top: -25px;
+    padding: 9px 5px;
+  }
+  .img3 {
+    margin-top: -70px;
+    width: 140px;
+  }
 }
 .testimonial {
   display: grid;
